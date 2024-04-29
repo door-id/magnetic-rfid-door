@@ -2,6 +2,7 @@
     "recommendations": [
         "vsciot-vscode.vscode-arduino",
         "ms-vscode.cpptools",
-        "ms-vscode.vscode-serial-monitor"
+        "ms-vscode.vscode-serial-monitor",
+        "EditorConfig.EditorConfig"
     ]
 }
